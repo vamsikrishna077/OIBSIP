@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">unit converter</string>
+    <string name="converted_pounds">%.2fLB</string>
+
+</resources>
